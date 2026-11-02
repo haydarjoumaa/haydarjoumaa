@@ -1,77 +1,44 @@
-# 🚀 Haydar Joumaa
+# Haydar Joumaa
 
-### Senior Front-End Engineer | Vue 3 Specialist | Full-Stack in Progress
+**Senior Front-End Engineer · Vue.js & TypeScript · Building toward Full-Stack Engineering**
 
-I design and build scalable, high-performance web applications with a strong focus on clean architecture, maintainability, and real-world production standards.
+I build maintainable, performant web applications, with a focus on complex interfaces, data visualization, and thoughtful frontend architecture. My primary expertise is **Vue 3 and TypeScript**; I'm expanding into backend engineering, authentication, databases, and system design through hands-on projects.
 
-Currently evolving from Front-End Specialist into a Full-Stack Engineer with deep interest in system design, backend architecture, and DevOps.
+## What I work on
 
----
+- **Complex Vue applications:** reusable components, state management, routing, internationalization, and RTL interfaces.
+- **Data-heavy interfaces:** AG Grid, interactive D3 visualizations, timelines, and graph-based views.
+- **Performance and maintainability:** scalable component architecture, efficient rendering, and clear separation of concerns.
+- **Backend practice:** REST APIs with Node.js, Express, TypeScript, MongoDB, and Mongoose.
+- **Authentication:** JWT access tokens, refresh-token rotation, device sessions, password hashing, and email verification workflows.
 
-## 🧠 About Me
+## Tech stack
 
-- 💼 Senior Front-End Developer (Vue 3 + TypeScript)
-- 🏗️ Architecting complex, data-heavy applications
-- ⚡ Performance optimization & scalable UI systems
-- 🔌 Real-time systems (WebSockets)
-- 📦 Containerized development with Docker
-- 🛠️ Backend: Node.js, Express, Prisma, PostgreSQL
-- 🎯 Goal: Strong Full-Stack Engineer with solid system design skills
+| Area | Technologies |
+| --- | --- |
+| Frontend | Vue 3, TypeScript, JavaScript, Vite, Pinia |
+| UI & visualization | Element Plus, Vuetify, AG Grid, D3.js, Cytoscape.js |
+| Backend (actively developing) | Node.js, Express, REST APIs, MongoDB, Mongoose |
+| Authentication & security | JWT, bcrypt, HttpOnly cookies, Zod, CORS |
+| Tools | Git, GitHub, VS Code, Linux, Postman |
+| Currently learning | Docker, deployment workflows, system design |
 
----
+## Projects & exploration
 
-## 🛠️ Tech Stack
+- **[Authentication Service](https://github.com/haydarjoumaa/Authentication-Service)** — a hands-on backend project exploring secure authentication, refresh-token rotation, session management, and email verification.
+- **[Agent Watch](https://github.com/haydarjoumaa/Agent-Watch)** — exploring developer tooling for monitoring coding-agent activity across workspaces.
+- **[Football Analytics](https://github.com/haydarjoumaa/football-analytics)** — TypeScript-based football project.
 
-### Frontend
-- Vue 3 (Composition API)
-- TypeScript
-- Vite
-- Element Plus
-- Tailwind CSS
-- AG Grid
-- D3.js
-- Pinia
+## Currently focused on
 
-### Backend
-- Node.js
-- Express
-- Prisma ORM
-- PostgreSQL
-- JWT Authentication
-- REST APIs
-- WebSockets
+I'm strengthening my backend fundamentals while continuing to build advanced frontend experiences. Areas I'm exploring include secure authentication flows, WebSocket architecture, Docker, databases, algorithms, and practical system design.
 
-### DevOps & Tools
-- Docker
-- Nginx (Reverse Proxy Basics)
-- Git & GitHub
-- CI/CD (Learning & Improving)
-- Linux / WSL
+## Engineering approach
+
+I value **clear boundaries, readable code, measured performance improvements, and maintainable solutions** over unnecessary complexity.
+
+> Write code as if you'll be maintaining it six months from now.
 
 ---
 
-## 🧩 Current Engineering Focus
-
-- Advanced timeline visualization systems (D3 + Vue integration)
-- Authentication & user management microservices
-- Dynamic PDF generation using Puppeteer
-- Docker architecture & deployment workflows
-- Algorithms & structured problem solving
-
----
-
-## 📈 Engineering Principles
-
-- Clean Architecture
-- Scalable folder structures
-- Separation of concerns
-- Performance-first mindset
-- Maintainable and testable code
-- Production-ready standards
-
----
-
-
-## ⚡ Philosophy
-
-> Write code as if you will maintain it in 6 months — because you probably will.
+[GitHub repositories](https://github.com/haydarjoumaa?tab=repositories) · [LinkedIn](https://www.linkedin.com/)
